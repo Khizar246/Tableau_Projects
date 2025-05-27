@@ -1,4 +1,3 @@
-```markdown
 # 📊 Tableau Projects
 
 Welcome to the **Tableau Projects** repository! This collection features multiple data visualization dashboards created using Tableau to explore, analyze, and communicate insights from real-world datasets.
@@ -85,5 +84,3 @@ Feel free to explore the dashboards, fork this repo, and reach out with suggesti
 ---
 
 ## ⭐ If you find these dashboards useful, don’t forget to star this repo!
-
-```
